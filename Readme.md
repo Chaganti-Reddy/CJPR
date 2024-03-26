@@ -8,7 +8,7 @@
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-v3.10-blue?style=flat-square"/></a>
     <img src="https://img.shields.io/github/issues/Chaganti-Reddy/CJPR?tyle=flat-square"/>
     <img src="https://img.shields.io/github/stars/Chaganti-Reddy/CJPR?style=flat-square"/>
-    <img src="https://img.shields.io/github/forks/Chaganti-Reddy-Reddy/CJPR?style=flat-square"/>
+    <img src="https://img.shields.io/github/forks/Chaganti-Reddy/CJPR?style=flat-square"/>
     <a href="https://github.com/Chaganti-Reddy/CJPR/issues"><img src="https://img.shields.io/github/issues/Chaganti-Reddy/CJPR?style=flat-square"/></a>
 </div>
 
