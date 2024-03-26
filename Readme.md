@@ -215,7 +215,7 @@ Feel free to mail me for any doubts/query
 
 ## :eyes: License
 
-Apache2.0 © [Chaganti Reddy](https://github.com/Chaganti-Reddy/CJPR/blob/main/LICENSE)
+Apache-2.0 © [Chaganti Reddy](https://github.com/Chaganti-Reddy/CJPR/blob/main/LICENSE)
 
 <!-- ## Contributors
 
