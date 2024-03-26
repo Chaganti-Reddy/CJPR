@@ -217,8 +217,8 @@ Follow this format:
 
 MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/CJPR/blob/main/LICENSE)
 
-## Contributors
+<!-- ## Contributors
 
 <a href="https://github.com/Chaganti-Reddy/CJPR/graphs/contributors">
   <img src="https://contrib.rocks/image?repo = Chaganti-Reddy/CJPR" />
-</a>
+</a> -->
