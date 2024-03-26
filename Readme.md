@@ -158,13 +158,13 @@ $ docker cp CJPR:/app/recommanded_petitions <output_path>
 
 The screenshot of the application running looks like:
 
-![Result 1](./assets/r1.png)
+![Result 1](./assets/r1.jpeg)
 
 ## :key: Results
 
 #### The CJPR system is able to predict and recommend the test_cases which are not trained on the model. The results are shown below:
 
-![Result 2](./assets/r2.png)
+![Result 2](./assets/r2.jpeg)
 
 Now you can copy the results to your local machine by running the above given command.
 
