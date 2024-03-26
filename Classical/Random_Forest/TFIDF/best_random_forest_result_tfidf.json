@@ -1,0 +1,23 @@
+{
+    "params": {
+        "max_depth": 10,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10,
+        "n_estimators": 100
+    },
+    "AUC": 0.560316075190505,
+    "accuracy": 0.5469654068693832,
+    "f1_score": 0.6349930569331481,
+    "recall": 0.7741233373639661,
+    "precision": 0.5382545821422566,
+    "confusion_matrix": [
+        [
+            1242,
+            2746
+        ],
+        [
+            934,
+            3201
+        ]
+    ]
+}
