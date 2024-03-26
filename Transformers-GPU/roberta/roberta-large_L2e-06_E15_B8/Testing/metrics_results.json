@@ -1,0 +1,18 @@
+{
+    "accuracy": 0.7495056031641397,
+    "precision": 0.7565403725167429,
+    "recall": 0.7495056031641397,
+    "f1_score": 0.7479169632317676,
+    "classification_report": "              precision    recall  f1-score   support\n\n    Accepted       0.71      0.83      0.77       755\n    Rejected       0.80      0.67      0.73       762\n\n    accuracy                           0.75      1517\n   macro avg       0.76      0.75      0.75      1517\nweighted avg       0.76      0.75      0.75      1517\n",
+    "confusion_matrix": [
+        [
+            627,
+            128
+        ],
+        [
+            252,
+            510
+        ]
+    ],
+    "average_precision": 0.7011307893210902
+}

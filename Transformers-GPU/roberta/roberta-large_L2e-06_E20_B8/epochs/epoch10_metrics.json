@@ -1,0 +1,20 @@
+{
+    "epoch": 10,
+    "macro_f1": 1.0,
+    "micro_f1": 1.0,
+    "flat_accuracy": 0.742,
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "Avg Train Loss": 0.28588932937884426,
+    "confusion_matrix": [
+        [
+            1,
+            0
+        ],
+        [
+            0,
+            1
+        ]
+    ]
+}
