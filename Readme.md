@@ -191,7 +191,7 @@ Now you can copy the results to your local machine by running the above given co
 
 ## :clap: And it's done!
 
-Feel free to mail me for any doubts/query 📧[Mail to Me :smile:](chagantivenkataramireddy1@gmail.com)
+Feel free to mail me for any doubts/query 📧 [Mail to Me :smile:](chagantivenkataramireddy1@gmail.com)
 
 ---
 
