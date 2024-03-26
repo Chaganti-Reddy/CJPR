@@ -27,7 +27,7 @@ The motivation for building this system is to provide AI-powered data-driven pre
 - [📂 Directory Tree](#-directory-tree)
 - [🚀&nbsp; Installation & Running](#nbsp-installation--running)
 - [:key: Results](#key-results)
-- [:raising_hand: Citation](#raising_hand-citation)
+<!-- - [:raising_hand: Citation](#raising_hand-citation) -->
 - [:beginner: Future Goals](#beginner-future-goals)
 - [:eyes: License](#eyes-license)
 
@@ -194,16 +194,16 @@ Feel free to mail me for any doubts/query
 
 ---
 
-## :raising_hand: Citation
-
-You are allowed to cite any part of the code or our dataset. You can use it in your Research Work or Project. Remember to provide credit to the Maintainer Chaganti Venkatarami Reddy by mentioning a link to this repository and her GitHub Profile.
-
-Follow this format:
-
-- Author's name - Name
-- Date of publication or update in parentheses.
-- Title or description of document.
-- URL.
+<!-- ## :raising_hand: Citation -->
+<!---->
+<!-- You are allowed to cite any part of the code or our dataset. You can use it in your Research Work or Project. Remember to provide credit to the Maintainer Chaganti Venkatarami Reddy by mentioning a link to this repository and her GitHub Profile. -->
+<!---->
+<!-- Follow this format: -->
+<!---->
+<!-- - Author's name - Name -->
+<!-- - Date of publication or update in parentheses. -->
+<!-- - Title or description of document. -->
+<!-- - URL. -->
 
 ## :beginner: Future Goals
 
@@ -215,7 +215,7 @@ Follow this format:
 
 ## :eyes: License
 
-MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/CJPR/blob/main/LICENSE)
+Apache2.0 © [Chaganti Reddy](https://github.com/Chaganti-Reddy/CJPR/blob/main/LICENSE)
 
 <!-- ## Contributors
 
