@@ -27,6 +27,7 @@ The motivation for building this system is to provide AI-powered data-driven pre
 - [📂 Directory Tree](#-directory-tree)
 - [🚀&nbsp; Installation & Running](#nbsp-installation--running)
 - [:key: Results](#key-results)
+- [:notebook: Wandb](#notebook-wandb)
 <!-- - [:raising_hand: Citation](#raising_hand-citation) -->
 - [:beginner: Future Goals](#beginner-future-goals)
 - [:eyes: License](#eyes-license)
@@ -80,7 +81,7 @@ All the prerequisites are mentioned in the code file itself to run the code. But
 The recommendations are provided based on the cosine similarity between the given case description and the historical cases. The cosine similarity is calculated using the
 </br>
 
-$$ Cosine Similarity(A,B) = \frac{\sum_{i=1} A_i . B_i}{\sqrt{\sum_{i=1} {A_i}^2}\sqrt{\sum_{i=1} {B_i}^2}} $$
+$$ Cosine Similarity(A,B) = \frac{\sum*{i=1} A_i . B_i}{\sqrt{\sum*{i=1} {A*i}^2}\sqrt{\sum*{i=1} {B_i}^2}} $$
 
 Where,
 
@@ -189,6 +190,10 @@ Now you can copy the results to your local machine by running the above given co
 0 directories, 11 files
 ```
 
+## :notebook: Wandb
+
+The results of the model are stored in the [Wandb](https://wandb.ai/) for better visualization and tracking of the model. Due to its better monitoring and tracking features, we have used wandb to store the results of the model.
+
 ## :clap: And it's done!
 
 Feel free to 📧 me for any doubts/query ([Mail to Me :smile:](chagantivenkataramireddy1@gmail.com))
@@ -212,7 +217,6 @@ Feel free to 📧 me for any doubts/query ([Mail to Me :smile:](chagantivenkatar
 2. To use the Machine Learning based encoding techniques to encode the case description.
 3. To make the system more efficient by adding more models.
 4. To make the system more user friendly by adding a GUI.
-
 
 ## :eyes: License
 
