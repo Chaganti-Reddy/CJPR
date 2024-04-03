@@ -222,13 +222,6 @@ Feel free to 📧 me for any doubts/query ([Mail to Me :smile:](chagantivenkatar
 
 Apache-2.0 © [Chaganti Reddy](https://github.com/Chaganti-Reddy/CJPR/blob/main/LICENSE)
 
-<!-- ## Contributors
-
-<a href="https://github.com/Chaganti-Reddy/CJPR/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo = Chaganti-Reddy/CJPR" />
-</a> -->
-
-
 
 ## Contributors
 
